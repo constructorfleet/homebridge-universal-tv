@@ -1,6 +1,6 @@
 {
-  "pluginAlias": "ExampleHomebridgePlugin",
-  "pluginType": "platform",
+  "pluginAlias": "universaltv",
+  "pluginType": "accessory",
   "singular": true,
   "schema": {
     "type": "object",
